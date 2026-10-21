@@ -1,0 +1,18 @@
+# secrets
+key.txt
+.env
+.streamlit/secrets.toml
+
+# personal CVs and test documents
+cvs/
+*.pdf
+*.docx
+
+# saved model answers and embeddings
+cache/
+
+# Python clutter
+__pycache__/
+*.pyc
+venv/
+.venv/

@@ -1,0 +1,14 @@
+# secrets
+key.txt
+.env
+
+# personal CVs and test documents
+cvs/
+*.pdf
+*.docx
+
+# Python clutter
+__pycache__/
+*.pyc
+venv/
+.venv/
